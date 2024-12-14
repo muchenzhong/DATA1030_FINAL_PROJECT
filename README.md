@@ -26,6 +26,17 @@ src/: The code file is here.
 
 data1030.yml: this is the environment I used.
 
+Python version and Package version
+- python=3.12.5
+- matplotlib=3.9.2
+- plotly=5.23.0
+- pandas=2.2.2
+- scikit-learn=1.5.1
+- numpy=1.26.4
+- py-xgboost=2.1.1
+- shap=0.45.1
+- jupyter
+
 
 ```python
 
